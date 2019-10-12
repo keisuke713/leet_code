@@ -9,4 +9,5 @@ example_id                          | status | run_time        |
 ./spec/reverse_spec.rb[1:3]         | passed | 0.00206 seconds |
 ./spec/tree_node_spec.rb[1:1]       | passed | 0.00229 seconds |
 ./spec/tree_node_spec.rb[1:2]       | passed | 0.0007 seconds  |
+./spec/triangle_spec.rb[1:1]        | passed | 0.00085 seconds |
 ./spec/two_sum_spec.rb[1:1]         | passed | 0.00008 seconds |
