@@ -8,6 +8,8 @@ example_id                                   | status | run_time        |
 ./spec/find_the_differences_spec.rb[1:1]     | passed | 0.00014 seconds |
 ./spec/find_the_differences_spec.rb[1:2]     | passed | 0.00197 seconds |
 ./spec/find_two_integer_spec.rb[1:1]         | passed | 0.00012 seconds |
+./spec/find_unsorted_subarray_spec.rb[1:1]   | passed | 0.00016 seconds |
+./spec/find_unsorted_subarray_spec.rb[1:2]   | passed | 0.00135 seconds |
 ./spec/first_uniq_char_spec.rb[1:1]          | failed | 0.00044 seconds |
 ./spec/first_uniq_char_spec.rb[1:2]          | failed | 0.04403 seconds |
 ./spec/intersection_spec.rb[1:1]             | passed | 0.00155 seconds |
