@@ -5,6 +5,7 @@ example_id                                   | status | run_time        |
 ./spec/fib_spec.rb[1:2]                      | passed | 0.00066 seconds |
 ./spec/fib_spec.rb[1:3]                      | passed | 0.00011 seconds |
 ./spec/find_disappeared_numbers_spec.rb[1:1] | passed | 0.00403 seconds |
+./spec/find_max_average_spec.rb[1:1]         | passed | 0.00209 seconds |
 ./spec/find_the_differences_spec.rb[1:1]     | passed | 0.00014 seconds |
 ./spec/find_the_differences_spec.rb[1:2]     | passed | 0.00197 seconds |
 ./spec/find_two_integer_spec.rb[1:1]         | passed | 0.00012 seconds |
