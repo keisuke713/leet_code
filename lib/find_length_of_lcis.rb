@@ -1,4 +1,5 @@
 def find_length_of_lcis(nums)
+  return 0 if nums.empty?
   return 1 if nums.count(nums.first) == nums.count
   increase_num = increase_num(nums)
   increase_num.uniq.map { |num| increase_num.count num }.sort!.last + 1
